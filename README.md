@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A software engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 2 years of hands-on experience in **product development, and technology support for clients.**
+- Have 4 years of hands-on experience in **product development, and technology support for clients.**
 - Developed products for **hrm, project management, kyc,** and **supply chain** business domains.
 - Have built **RESTful API's,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
