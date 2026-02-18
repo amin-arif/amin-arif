@@ -56,15 +56,6 @@ I am a **Senior Software Engineer** with over **5 years of hands-on experience**
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amin-arif&show_icons=true&theme=minimal" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-arif&layout=compact&theme=minimal"/>
-</div>
-
----
-
 ### 💼 Professional Experience
 
 | Company | Role | Domain |
@@ -72,6 +63,16 @@ I am a **Senior Software Engineer** with over **5 years of hands-on experience**
 | **[BRAC IT](https://www.bracits.com/)** | Senior Software Engineer | FinTech & Enterprise Solutions |
 | **[Ctrends Software](https://www.ctrends-software.com/)** | Programmer | Government & Public Sector |
 | **[Devnet Limited](http://www.devnetlimited.com/)** | Software Engineer | Web Applications |
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Role | Tech Stack | Impact |
+| :--- | :--- | :--- | :--- |
+| **[medi-trace](https://github.com/amin-arif/medi-trace)** | Lead Developer | `Spring Boot` `Kafka` `PostgreSQL` | Scalable supply chain tracking system for pharmaceuticals. |
+| **[project-management](https://github.com/amin-arif/project-management)** | Backend Eng. | `Java` `Microservices` | Multi-tenant architecture supporting dynamic workflows. |
+| **[news-portal](https://github.com/amin-arif/News-Portal)** | Full Stack | `Angular` `REST API` | High-traffic content delivery platform with caching layers. |
 
 ---
 
