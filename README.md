@@ -5,24 +5,24 @@
 
 Here are some ideas to get you started:
 -->
-#### Who I am?
+#### Who am I?
 - A software engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 4 years of hands-on experience in **product development, and technology support for clients.**
+- Have 5 years of hands-on experience in **product development, and technology support for clients.**
 - Developed products for **hrm, project management, kyc,** and **supply chain** business domains.
 - Have built **RESTful API's,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-#### What I'm doing?
-- 🏢 Working at **[CTrends Software](https://www.ctrends-software.com/)** as a **Programmer**.
-- 👨‍💻 Writing `Java` `Spring Boot` `API's` `Posrgres` `Microservice`, `JavaScript`.
+#### What am I doing?
+- 🏢 Working at **[BRAC IT](https://www.bracits.com/)** as a **Senior Software Engineer**.
+- 👨‍💻 Writing `Java` `Spring Boot` `API's` `PostgreSQL` `Microservice`, `JavaScript`, `Angular`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/amin-arif/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Java community**.
-- 📚 Currently learning about **clean code**, **tdd**, **microservice**, and **techical pitch**.
+- 📚 Currently learning about **agentic engineering**, **clean code**, **tdd**, **microservice**, and **techical pitch**.
 - 👯 Looking to collaborate on **Spring Boot projects**.
 - 🥰 Building **[medi-trace](https://github.com/amin-arif/medi-trace)**, **[project-management](https://github.com/amin-arif/project-management)**, **[news-portal](https://github.com/amin-arif/News-Portal)** as pet projects.
 
-#### What I like to disscuss about? 
+#### What I like to discuss? 
 - 💬 Ask me about `Spring stack` `RESTful APIs` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` and `tech culture`.
 
-#### What my skill set looks like?
+#### What does my skill set look like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks & Libraries:** • [ReactJS](https://reactjs.org/) • [jQuery](https://jquery.com/)
@@ -56,11 +56,14 @@ Here are some ideas to get you started:
 
 #### What companies have I worked for?
 <p left="center">
+    <a href="https://www.bracits.com/">
+    <img src="https://www.bracits.com/wp-content/uploads/2025/05/logo-1-1.png" style="background-color:black;" height="50">
+  </a>
   <a href="https://www.ctrends-software.com/">
     <img src="https://www.ctrends-software.com/resources/images/Ctrends-logo.svg" style="background-color:white;" height="50">
-    </a> 
+  </a>
   <a href="http://www.devnetlimited.com/">
-    <img src="https://media.licdn.com/dms/image/C510BAQEqwRwVrPtaFw/company-logo_200_200/0/1524649686328?e=1686182400&v=beta&t=IQkXLElt5PMp37hUlipWMxUs2bxqwkGyo_EjGDAZrW8" height=50>
+    <img src="https://devnetlimited.com/wp-content/uploads/2023/07/cropped-huge-3.png" height=50>
   </a>
 </p>
 
